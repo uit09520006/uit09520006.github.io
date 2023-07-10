@@ -1,0 +1,25 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.scs71.logigram.staging",
+        "sha256_cert_fingerprints":[
+          "6F:F8:04:4C:D6:6C:E3:8D:46:93:66:1B:BE:EA:3E:03:38:93:D3:5A:00:66:2A:E9:2D:58:B6:E4:29:3A:F8:16",
+          "02:AF:58:F6:AC:73:3F:8F:42:22:C5:D6:01:54:B1:14:6A:53:17:E3:00:07:EC:83:7B:6C:E2:80:B5:39:DD:E9"
+        ]
+      }
+    },
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.scs71.logigram.trial",
+      "sha256_cert_fingerprints":[
+        "6F:F8:04:4C:D6:6C:E3:8D:46:93:66:1B:BE:EA:3E:03:38:93:D3:5A:00:66:2A:E9:2D:58:B6:E4:29:3A:F8:16", 
+        "02:AF:58:F6:AC:73:3F:8F:42:22:C5:D6:01:54:B1:14:6A:53:17:E3:00:07:EC:83:7B:6C:E2:80:B5:39:DD:E9",
+        "2E:A7:A7:DA:C7:C9:9D:49:45:78:AB:9C:7D:9B:F9:28:C4:9A:85:42:07:93:78:11:C0:8C:3E:0B:A5:52:7D:03"
+      ]
+    }
+  }
+]
