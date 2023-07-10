@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "ZV927F5GA6.com.scs71.logigram.flutter.test.staging",
+          "ZV927F5GA6.com.scs71.logigram.trial"
+        ],
+        "components": [
+          {
+            "#": "no_universal_links",
+            "exclude": true,
+            "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+          },
+          {
+            "/": "/public/job",
+            "?": {
+              "token": "*"
+            },
+            "comment": "Matches any URL whose path is /public/job and that has a query item with name 'token'"
+          }
+        ]
+      }
+    ]
+  }
+}
